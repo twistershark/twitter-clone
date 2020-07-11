@@ -44,10 +44,10 @@ This is a simple **Twitter clone** to train **positioning** elements in CSS with
   # Clone the repository
   $ git clone https://github.com/twistershark/twitter-clone
 
-  # Enters the repository
+  # Enter the repository
   $ cd twitter-clone
 
-  #start the project
+  # Start the project
   $ 'yourbrowsername' index.html
 
 ```
@@ -59,4 +59,4 @@ Feel free to contribute to this project. Every help is welcome!
 ---
 ## 📃 License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
