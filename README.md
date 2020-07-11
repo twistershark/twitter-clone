@@ -47,7 +47,7 @@ This is a simple **Twitter clone** to train **positioning** elements in CSS with
   # Enter the repository
   $ cd twitter-clone
 
-  # Start the project
+  # Start the project 
   $ 'yourbrowsername' index.html
 
 ```
